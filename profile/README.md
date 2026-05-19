@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◣ Blek Code
+# Blek Code
 
 **Software, crafted from the islands.**
 
@@ -53,7 +53,7 @@ Discover  →  Design  →  Build  →  Launch  →  Support
 
 ## Get in touch
 
-- 🌐 [blekcode.mv](https://blekcode.mv) *(coming soon)*
+- 🌐 [blekcode.com](https://blekcode.com)
 - ✉️ hello@blekcode.mv
 - 📍 Malé, Maldives · GMT+5
 
