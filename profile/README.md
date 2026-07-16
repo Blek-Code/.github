@@ -54,7 +54,7 @@ Discover  →  Design  →  Build  →  Launch  →  Support
 ## Get in touch
 
 - 🌐 [blekcode.com](https://blekcode.com)
-- ✉️ hello@blekcode.mv
+- ✉️ hello@blekcode.com
 - 📍 Malé, Maldives · GMT+5
 
 ---
